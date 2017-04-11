@@ -1,3 +1,6 @@
+'''For any further clarifications
+contact me through avirup.ece2013@gmail.com'''
+
 class Circle:
     '''
     There is no Circle object in Pygame. This class would offset that.
